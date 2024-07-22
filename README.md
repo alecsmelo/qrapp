@@ -19,3 +19,6 @@
 
 📥 [Versão 2.0 - Windows](https://github.com/alecsmelo/qrapp/releases/tag/aplicativos)
 
+## Tela
+
+<img src="https://github.com/alecsmelo/qrapp/blob/main/imagens/screenshot_01.png">
