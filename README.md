@@ -17,5 +17,5 @@
 
 ## Versão 2.0 
 
-📥 Download -> 
+📥 [Download](https://github.com/alecsmelo/qrapp/releases/tag/untagged-119d8fcd95546f8c318a)
 
