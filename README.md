@@ -15,7 +15,7 @@
 
 ----
 
-## Versão 2.0 
+## Downloads
 
-📥 [Download](https://github.com/alecsmelo/qrapp/releases/tag/untagged-119d8fcd95546f8c318a)
+📥 [Versão 2.0 - Windows](https://github.com/alecsmelo/qrapp/releases/tag/aplicativos)
 
